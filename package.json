@@ -14,10 +14,10 @@
     "@babel/core": "^7.15.5",
     "@mdx-js/react": "^1.6.22",
     "@storybook/addon-actions": "^6.4.0-alpha.36",
-    "@storybook/addon-docs": "^5.3.21",
+    "@storybook/addon-docs": "^6.4.0-alpha.36",
     "@storybook/addon-essentials": "^6.4.0-alpha.36",
     "@storybook/addon-links": "^6.4.0-alpha.36",
-    "@storybook/react": "^5.3.21",
+    "@storybook/react": "^6.4.0-alpha.36",
     "babel-loader": "^8.2.2"
   },
   "scripts": {
